@@ -4,12 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A9C5&height=180&section=header&text=Angelina%20Malmros&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A9C5&height=180&section=header&text=I'M%20ANGELINA&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-## ✨ About me
-
-- 👋 I'm Angelina
 - 💻 Passionate about frontend development
 - 🌱 Always eager to learn and explore new technologies
 - 🧶 I love knitting, crocheting, reading, and gaming
