@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=200&section=header&text=I'M%20ANGELINA&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img width="2046" height="769" alt="image" src="https://github.com/user-attachments/assets/c1a0236c-e085-499f-a8c1-c29f4128c27f" />
 </p>
 
 ---
