@@ -1,29 +1,60 @@
 <h1 align="center">hiii 🌷</h1>
+
 <p align="center">
-  frontend lover • creative coder • yarn enthusiast
+  frontend magic • cozy creativity • always learning
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A9C5&height=180&section=header&text=I'M%20ANGELINA&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=200&section=header&text=I'M%20ANGELINA&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-- 💻 Passionate about frontend development
-- 🌱 Always eager to learn and explore new technologies
-- 🧶 I love knitting, crocheting, reading, and gaming
-- 🎨 I enjoy building things that feel both pretty and usable
+---
 
-## 💖 Currently into
+## ✨ About Me
 
-- Fullstack projects
-- UI / UX details
+I'm a software developer who's always eager to learn and explore new technologies. I enjoy building pretty and usable things.
+
+When I'm not coding, you'll probably find me:
+- 🧶 Knitting or crocheting
+- 📚 Reading a book
+- 🎮 Gaming and exploring new worlds
+
+<br>
+
+## 🌸 Currently Into
+
+- Fullstack projects using frontend frameworks
 - Learning new tools and frameworks
-- Creative hobbies outside coding
+- New creative coding tools
 
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angelina%20Malmros-F4A9C5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelina-malmros/)
-
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishbulle&layout=donut&hide=jupyter%20notebook&theme=transparent" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,next,python,html,css" />
+</p>
+
+<br>
+
+## 💌 Find Me Here
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/angelina-malmros/">
+    <img src="https://img.shields.io/badge/LinkedIn-Angelina%20Malmros-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+## 📊 Stats
+
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fishbulle&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fishbulle&theme=dracula)
+
+</div>
+
+<br>
+
+<p align="center">
+  ✨ thanks for visiting, k byyye ✨
 </p>
