@@ -33,9 +33,9 @@ When I'm not coding, you'll probably find me:
   <img src="https://skillicons.dev/icons?i=typescript,react,next,python,html,css" />
 </p>
 
-<br>
 
 ## 📊 stats
+<br>
 
 <div align="center">
   
@@ -43,7 +43,6 @@ When I'm not coding, you'll probably find me:
 
 </div>
 
-<br>
 <br>
 
 ---
