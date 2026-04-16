@@ -24,8 +24,8 @@ When I'm not coding, you'll probably find me:
 ## 🌸 Currently Into
 
 - Fullstack projects using frontend frameworks
-- Learning new tools and frameworks
-- New creative coding tools
+- Dabbling in Python and machine learning
+- Trying new creative coding tools
 
 <br>
 
@@ -56,5 +56,5 @@ When I'm not coding, you'll probably find me:
 <br>
 
 <p align="center">
-  ✨ thanks for visiting, k byyye ✨
+  ✨ thanks for visiting ✨
 </p>
