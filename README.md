@@ -8,7 +8,7 @@
   <img width="2046" height="769" alt="image" src="https://github.com/user-attachments/assets/c1a0236c-e085-499f-a8c1-c29f4128c27f" />
 </p>
 
----
+<br>
 
 ## ✨ About Me
 
@@ -33,7 +33,6 @@ When I'm not coding, you'll probably find me:
   <img src="https://skillicons.dev/icons?i=typescript,react,next,python,html,css" />
 </p>
 
-<br>
 
 ## 💌 Find Me Here
 
