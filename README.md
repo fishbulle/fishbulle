@@ -10,7 +10,7 @@
 
 <br>
 
-## ✨ About Me
+## ✨ about me
 
 I'm a software developer who's always eager to learn and explore new technologies. I enjoy building pretty and usable things.
 
@@ -21,7 +21,7 @@ When I'm not coding, you'll probably find me:
 
 <br>
 
-## 🌸 Currently Into
+## 🌸 currently into
 
 - Fullstack projects using frontend frameworks
 - Dabbling in Python and machine learning
@@ -33,18 +33,9 @@ When I'm not coding, you'll probably find me:
   <img src="https://skillicons.dev/icons?i=typescript,react,next,python,html,css" />
 </p>
 
-
-## 💌 Find Me Here
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/angelina-malmros/">
-    <img src="https://img.shields.io/badge/LinkedIn-Angelina%20Malmros-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 <br>
 
-## 📊 Stats
+## 📊 stats
 
 <div align="center">
   
@@ -53,6 +44,9 @@ When I'm not coding, you'll probably find me:
 </div>
 
 <br>
+<br>
+
+---
 
 <p align="center">
   ✨ thanks for visiting ✨
