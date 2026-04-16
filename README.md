@@ -17,7 +17,7 @@
 
 ## 💖 Currently into
 
-- Frontend projects
+- Fullstack projects
 - UI / UX details
 - Learning new tools and frameworks
 - Creative hobbies outside coding
